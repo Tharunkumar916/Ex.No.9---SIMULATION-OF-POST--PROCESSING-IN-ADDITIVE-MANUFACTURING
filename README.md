@@ -31,24 +31,19 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
 
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
-
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2024-12-04 at 18 01 43_b32055a0](https://github.com/user-attachments/assets/475c8db4-a2c2-4a3c-991c-8ba07bb3f0a0)
+![WhatsApp Image 2024-12-04 at 18 01 43_98392bcb](https://github.com/user-attachments/assets/b5a56c7a-85e1-497c-9459-a40d5b6af55c)
+![WhatsApp Image 2024-12-04 at 18 01 43_a621062c](https://github.com/user-attachments/assets/5bb7b2b9-e522-4f65-ac23-eefd0572b3e5)
+![WhatsApp Image 2024-12-04 at 18 01 43_e8c3acbb](https://github.com/user-attachments/assets/174733ba-7e05-4eae-b133-a6315ce18375)
+![WhatsApp Image 2024-12-04 at 18 01 43_e8c2e257](https://github.com/user-attachments/assets/5a585cca-1722-4fc4-9bd4-9eacc33ba9de)
+![WhatsApp Image 2024-12-04 at 18 01 43_18e3a57a](https://github.com/user-attachments/assets/3251acf7-c627-4996-ad31-20e9fad46b0d)
 
-### Name:
-### Register Number:
+
+### Name:Tharun Kumar V
+### Register Number:24000459
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
